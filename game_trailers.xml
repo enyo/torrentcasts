@@ -16,7 +16,7 @@ torrents:
                 <title>{{ torrent.title | xml_escape }}</title>
                 <description>{{ torrent.title | xml_escape }}</description>
                 <pubDate>{{ torrent.date }}</pubDate>
-                <enclosure url="{{ torrent.url }}" type="application/x-bittorrent />
+                <enclosure url="{{ torrent.url }}" type="application/x-bittorrent" />
                 <guid isPermaLink="true">{{ torrent.url }}</guid>
             </item>
         {% endfor %}
