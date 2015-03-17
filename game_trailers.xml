@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<link>http://btt.gamersyde.com/ </link>
-<description>Game Trailers</description>
+<link>http://gamersyde.com/ </link>
+<title>Game Trailers</title>
+<description>High quality game trailers</description>
 <item>
 <title>Mortal Kombat X - The Cage Family</title>
-<link>http://btt.gamersyde.com/Mortal_Kombat_X_-_Cage_Family_Trailer.mp4.torrent </link>
+<enclosure url="http://btt.gamersyde.com/Mortal_Kombat_X_-_Cage_Family_Trailer.mp4.torrent" type="application/x-bittorrent" />
 <pubDate>Tue, 17 Mar 2015 15:55:00 GMT </pubDate>
 </item>
 </channel>
